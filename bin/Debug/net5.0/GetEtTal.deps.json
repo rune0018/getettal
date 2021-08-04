@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GetEtTal/1.0.0": {
+        "runtime": {
+          "GetEtTal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetEtTal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

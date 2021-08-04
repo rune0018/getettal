@@ -7,6 +7,10 @@ namespace GetEtTal
         static void Main(string[] args)
         {
             Getettal.start();
+            while(Gui.GetStringFromUser("\ntryk y for at genstarte") == "y")
+            {
+                Getettal.start();
+            }
             //Rul en tærning og få et tilfældigt tal
             //int guessThisNumber = Dice.Roll();
             //Console.Write("Gæt et tal: ");
@@ -33,12 +37,9 @@ namespace GetEtTal
         {
             public static int guessThisNumber;
             public static int inputnumber;
-            public Getettal()
-            {
-                
-            }
             public static void start()
             {
+                Gui.clear();
                 string navn = Gui.GetStringFromUser("hvad hedder du: ");
                 Gui.Write("hej " + navn);
                 int.TryParse(Gui.GetStringFromUser(" hvor mange sider vil du have på din tærning: "), out Dice.Sides);
@@ -77,6 +78,10 @@ namespace GetEtTal
             public static void Write(string input)
             {
                 Console.Write(input);
+            }
+            public static void clear()
+            {
+                Console.Clear();
             }
         }
     }

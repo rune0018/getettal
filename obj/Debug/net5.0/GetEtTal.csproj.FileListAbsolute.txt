@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\GetEtTal\bin\Debug\net5.0\GetEtTal.exe
+C:\Users\Acer\source\repos\GetEtTal\bin\Debug\net5.0\GetEtTal.deps.json
+C:\Users\Acer\source\repos\GetEtTal\bin\Debug\net5.0\GetEtTal.runtimeconfig.json
+C:\Users\Acer\source\repos\GetEtTal\bin\Debug\net5.0\GetEtTal.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\GetEtTal\bin\Debug\net5.0\GetEtTal.dll
+C:\Users\Acer\source\repos\GetEtTal\bin\Debug\net5.0\ref\GetEtTal.dll
+C:\Users\Acer\source\repos\GetEtTal\bin\Debug\net5.0\GetEtTal.pdb
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.AssemblyInfo.cs
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.dll
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\ref\GetEtTal.dll
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.pdb
+C:\Users\Acer\source\repos\GetEtTal\obj\Debug\net5.0\GetEtTal.genruntimeconfig.cache
